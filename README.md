@@ -5,13 +5,13 @@ Email: jgatheru51@gmail.com
 jgatheru-xbt/jgatheru-xbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hey there, I'm [Your Name]! 👋
+# Hey there, I'm James ! 👋
 
 Backend-focused software engineer with a passion for building robust, scalable APIs and diving deep into system internals. When I'm not writing code, I'm usually solving math problems or lost in a book.
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 *   **Python Ecosystem:** Building fast, high-performance async APIs with **FastAPI** and robust enterprise apps with **Django**.
 *   **Java Ecosystem:** Crafting enterprise-grade, secure microservices using **Spring** and **Spring Boot**.
@@ -19,7 +19,7 @@ Backend-focused software engineer with a passion for building robust, scalable A
 
 ---
 
-### 🛠️ My Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -29,7 +29,7 @@ Backend-focused software engineer with a passion for building robust, scalable A
 
 ---
 
-### 🧠 Current Obsessions & Side Quests
+### Current Obsessions & Side Quests
 
 *   📐 **Self-Learning Math:** Rebuilding my mathematical foundation from the ground up to level up my computer science logic.
 *   📖 **Computing History:** Reading about the pioneers who built the foundation of the digital world we play in today.
@@ -37,7 +37,7 @@ Backend-focused software engineer with a passion for building robust, scalable A
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -45,11 +45,11 @@ Backend-focused software engineer with a passion for building robust, scalable A
 </p>
 
 ---
-
-### 📫 Connect with me
+<!--
+### Connect with me
 
 *   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 *   **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 *   **Email:** [your.email@example.com](mailto:your.email@example.com)
-
+-->
 _"The best error message is the one that never happens."_
