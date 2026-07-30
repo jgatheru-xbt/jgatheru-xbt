@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm James <br><br>- 🔭 I’m a software engineer  interested in Backend and infrastructure engineering <br>- 📚 I'm currently learning Kubernetes to <br>- ⚡ In my free time I read books and play football. My favorite book is  'The Little Prince ' by Antoine de Saint-Exupéry</p>
+<p data-importer="text" align="left">I'm James <br><br>- 🔭 I’m a software engineer  interested in Backend and infrastructure engineering <br>- 📚 I'm currently learning Kubernetes <br>- ⚡ In my free time I read books and play football. My favorite book is  'The Little Prince ' by Antoine de Saint-Exupéry</p>
 
 ###
 
